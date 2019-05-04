@@ -1,0 +1,30 @@
+body{
+    background-color: #e2e4e5;
+}
+div{
+    background-color: #eceff1;
+    text-align: center;
+    margin: 40px 3px;
+}
+h1{
+    
+    font-family: Montserrat;
+    color: black;
+    font-size: 50px;
+    text-shadow: 2px 2px red;
+
+}
+#first{
+    text-align: center;
+    padding-top: 20px;
+}
+#second{
+    text-align: center;
+    padding: 50PX 80px;
+}
+.img1{
+    width: 200px;
+    height: 150px;
+    margin-left: 90px;
+    
+}
